@@ -26,3 +26,4 @@
 ###### When you run the program, the webcam turns on, and you can see the blue rectangle inside the video. This is a roi that can recognize hand gestures. It receives frames from the video in real time, preprocesses those frames and feeds them into the model as input. you can express a specific hand gesture inside the roi. If your hand gesture matches the true image, the word "Unlocked" is displayed, and if it does not match, the word "Locked" is output to the video.
 ![제목을 입력해주세요_-001 (1)](https://user-images.githubusercontent.com/62979330/146677037-4ea865cf-a974-4c11-9a72-28f6519b3a99.png)
 
+###### :balloon: This program was not developed for commercial use.
