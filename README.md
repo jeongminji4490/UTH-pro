@@ -5,7 +5,8 @@
 ###### 1. cnn model saved in h5 format
 ###### 2. Main program to authenticate hand gestures
 ###### Caution ) This model is a model whose true value has already been determined. So the true value cannot be modified. Here is the true value image:
-![test](https://user-images.githubusercontent.com/62979330/146676252-9b7f842c-12f9-4848-8ec0-1d18939c0c63.jpg)
+![3](https://user-images.githubusercontent.com/62979330/146676289-eb5fc9dc-4c03-44ee-9c4d-4d8b4d3fc992.jpg)
+
 
 #### CNN Model 
 ######
