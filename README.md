@@ -9,6 +9,8 @@
 ###### :bulb: Caution 2 ) Hand authentication works better when run on a clean background.
 
 #### CNN Model 
+####### This model was created based on this algorithm :
+[repository](https://github.com/jeongminji4490/hand-gesture-recognition-model.git)
 ##### 1. Dataset
 ###### I got 13000 false images and 907 true images from the following sites:
 [11k Hands](https://sites.google.com/view/11khands)
